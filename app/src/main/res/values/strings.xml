@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TRICK!</string>
+    <string name="app_info">WELCOME! This is an app based on the ChatGPT Model.This app is designed to provide text outputs and generate images based on user input.
+    </string>
+    <string name="writeinput">Write Your Input Here.</string>
+</resources>
